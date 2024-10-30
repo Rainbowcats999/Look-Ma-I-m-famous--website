@@ -25,6 +25,12 @@ body {
     height: 100%;
 }
 
+.ur-dad {
+    background-color: rgba(124, 117, 117, 0.744);
+    width: 100%;
+    height: 100%;
+}
+
 h4 {
     font-family: "fairwater-script", sans-serif;
     font-weight: 400;
