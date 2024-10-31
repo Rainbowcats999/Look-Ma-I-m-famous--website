@@ -49,6 +49,15 @@ tr {
     height: 100%;
 }
 
+.carousel-control-prev-icon {
+    left:-110px;
+    position:relative;
+}
+.carousel-control-next-icon {
+    left:110px;
+    position:relative;
+}
+
 .ur-bro {
     background-color: rgba(23, 213, 13, 0.744);
     width: 100%;
