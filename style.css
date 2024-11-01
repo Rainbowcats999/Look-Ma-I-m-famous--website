@@ -31,6 +31,26 @@ tr {
     border-radius: 50%;
 }
 
+.alimg-2 {
+    height: 200px;
+    width: 200px;
+}
+
+.alimg-3 {
+    height: 200px;
+    width: 200px;
+}
+
+.almig-4 {
+    height: 200px;
+    width: 200px; 
+}
+
+.alimg-5 {
+    height: 200px;
+    width: 200px;
+}
+
 .ur-mom {
     background-color: rgba(189, 175, 175, 0.744);
     width: 100%;
@@ -64,10 +84,23 @@ tr {
     height: 100%;
 }
 
+.ur-uncle{
+    background-color: aqua;
+
+}
+
 .ur-cousin {
     background-color: rgb(8, 80, 8) ;
 }
 
+.ur-grandma {
+    background-color: red;
+}
+
+.ur-aunt {
+    background-color: rgb(212, 5, 5);
+    height:500px;
+}
 
 
 .card {
@@ -98,6 +131,12 @@ tr {
     width: 300px;
 }
 
+h1 {
+    font-family: "romana-tw", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
 h2 {
     font-family: "filmotype-keynote", sans-serif;
     font-weight: 400;
@@ -108,4 +147,8 @@ h4 {
     font-family: "fairwater-script", sans-serif;
     font-weight: 400;
     font-style: normal;
+}
+
+body.events {
+    background-color:rgb(228, 86, 34);
 }
