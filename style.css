@@ -88,6 +88,16 @@ tr {
     background-color: silver;
 }
 
+.card-img-top {
+    height: 300px;
+    width: 340px;
+}
+
+.card-img-top-1 {
+    height: 300px;
+    width: 300px;
+}
+
 h2 {
     font-family: "filmotype-keynote", sans-serif;
     font-weight: 400;
