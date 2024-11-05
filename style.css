@@ -7,6 +7,15 @@ body {
     background-size: cover;
 }
 
+body.events {
+    text-align: center;
+    background-color: rgb(240, 77, 13);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 table {
     border: 2px solid black;
 }
